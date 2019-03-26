@@ -1,0 +1,7 @@
+function trocaImagem() {
+	document.getElementById("myImage").src = "C:\Users\Aluno\Desktop\1\troca de imagem\img\html-logo-badge-512;"
+}
+	
+function imagemTroca() {
+	document.getElementById("myImage").src = "C:\Users\Aluno\Desktop\1\troca de imagem\img\js-logo-badge-512;"
+}
